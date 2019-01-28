@@ -1,7 +1,7 @@
 reporter: apiary
 custom:
-  apiaryApiKey: 
-  apiaryApiName: 
+  apiaryApiKey: 30a2e50e634779a28012111378f31dfc
+  apiaryApiName: stopwind
 dry-run: null
 hookfiles: null
 language: nodejs
